@@ -1,10 +1,10 @@
 {
-    "app_id" : "net.peoonline.peomobileapp",
+    "app_id" : "net.peoonline.psc",
     "versioncode" : "2016",
     "versionname" : "0.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
-    "languages": {"ar": "عربي", "bg": "Българ�?ки", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "�?ارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Ру�?�?кий", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
+    "languages": {"ar": "Ø¹Ø±Ø¨ÙŠ", "bg": "Ð‘ÑŠÐ»Ð³Ð°Ñ€Ñ?ÐºÐ¸", "ca": "CatalÃ ", "cs": "ÄŒeÅ¡tina", "da": "Dansk", "de": "Deutsch","en": "English", "es": "EspaÃ±ol", "es-mx": "EspaÃ±ol - MÃ©xico", "eu": "Euskara", "fa": "Ù?Ø§Ø±Ø³ÛŒ", "fr" : "FranÃ§ais", "he" : "×¢×‘×¨×™×ª", "hu": "magyar", "it": "Italiano", "ja": "æ—¥æœ¬èªž","nl": "Nederlands", "pl": "Polski", "pt-br": "PortuguÃªs - Brasil", "ru": "Ð ÑƒÑ?Ñ?ÐºÐ¸Ð¹", "sv": "Svenska", "tr" : "TÃ¼rkÃ§e", "zh-cn" : "ç®€ä½“ä¸­æ–‡", "zh-tw" : "æ­£é«”ä¸­æ–‡"},
     "wsservice" : "peoonline_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl": "http://psc.peoonline.net/",

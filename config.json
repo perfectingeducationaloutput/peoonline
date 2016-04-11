@@ -5,11 +5,11 @@
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
 <<<<<<< HEAD
-    "languages": {"ar": "عربي", "bg": "Българ�?ки", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "�?ارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Ру�?�?кий", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
+    "languages": {"ar": "عربي", "bg": "Българ�?ки", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "�?ارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Ру�?�?кий", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "moodle_mobile_app",
 =======
     "languages": {"ar": "Ø¹Ø±Ø¨ÙŠ", "bg": "Ð‘ÑŠÐ»Ð³Ð°Ñ€Ñ?ÐºÐ¸", "ca": "CatalÃ ", "cs": "ÄŒeÅ¡tina", "da": "Dansk", "de": "Deutsch","en": "English", "es": "EspaÃ±ol", "es-mx": "EspaÃ±ol - MÃ©xico", "eu": "Euskara", "fa": "Ù?Ø§Ø±Ø³ÛŒ", "fr" : "FranÃ§ais", "he" : "×¢×‘×¨×™×ª", "hu": "magyar", "it": "Italiano", "ja": "æ—¥æœ¬èªž","nl": "Nederlands", "pl": "Polski", "pt-br": "PortuguÃªs - Brasil", "ru": "Ð ÑƒÑ?Ñ?ÐºÐ¸Ð¹", "sv": "Svenska", "tr" : "TÃ¼rkÃ§e", "zh-cn" : "ç®€ä½“ä¸­æ–‡", "zh-tw" : "æ­£é«”ä¸­æ–‡"},
-    "wsservice" : "peoonline_mobile_app",
+    "wsservice" : "moodle_mobile_app",
 >>>>>>> 8cb8b0bb51435214cc5af6f85e88fcb5178e46ae
     "wsextservice" : "local_mobile",
     "siteurl": "http://psc.peoonline.net",

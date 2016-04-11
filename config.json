@@ -5,9 +5,9 @@
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"ar": "عربي", "bg": "Българ�?ки", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "�?ارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Ру�?�?кий", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
-    "wsservice" : "peoonline_mobile_app",
+    "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-    "siteurl": "http://psc.peoonline.net/",
+    "siteurl": "http://psc.peoonline.net",
     "gcmpn": "694767596569",
     "customurlscheme": "peoonlinemobile"
    
